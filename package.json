@@ -1,0 +1,25 @@
+{
+  "name": "nosql-introduction",
+  "version": "0.0.0",
+  "description": "An Introduction NoSQL for eXia students",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "~2.1.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MathieuNls/nosql-introduction.git"
+  },
+  "keywords": [
+    "nosql"
+  ],
+  "author": "Mathieu Nayrolles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MathieuNls/nosql-introduction/issues"
+  }
+}
